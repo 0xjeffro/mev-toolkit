@@ -82,4 +82,4 @@
 * **[mev data and analytics](MEV_searchers/data_and_analytics)**
 * **[research on order flows](MEV_searchers/order_flows)**
 * **[yummy canonical papers](MEV_projects/history.md)**
-* **[neo-cypherpunk toolkit](https://github.com/go-outside-labs/neo-cypherpunk-toolkit)**
+* **[autistic cypherpunk toolkit](https://github.com/autistic-symposium/autistic-cypherpunk-toolkit)**
